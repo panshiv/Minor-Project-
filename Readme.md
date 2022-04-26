@@ -1,5 +1,5 @@
-This  is the code of our minor project titled" Automatic door barrier with face mask destection,temperature scanning and sanitizer deispenser".
-Our project includes DC-pump, servo motor, lcd, pi camera, IR- sensor,and temperature sensor(mlx9064).You may connect the circuit and individual modules can be calibrated and checked by running individual modules given.
+This  is the code of our minor project titled" Automatic door barrier with face mask detection,temperature scanning and sanitizer dispenser".
+Our project includes DC-pump, servo_motor,LCD monitor, pi-camera, IR-sensor,and temperature sensor(mlx9064).You may connect the circuit and individual modules can be calibrated and checked by running individual modules given.
 
 for pi camera--> run detection.py(it detects facemask)
 for lcd--> run lcd.py
